@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:\Users\JENNIFER.DESKTOP-LM0K0RT\AppData\Local\Temp\Rar$DIa0.698\database.sqlite" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="1475"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,4:maintags"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="tags" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="57"/><column index="2" value="52"/><column index="3" value="169"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="TOP 5 ARTIST">SELECT artist, COUNT(artist)
+FROM torrents
+GROUP BY artist
+ORDER BY COUNT(artist) DESC
+LIMIT 5;
+
+SELECT artist, COUNT(artist)
+FROM torrents
+GROUP BY artist
+ORDER BY COUNT(artist) DESC
+LIMIT 6;
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
