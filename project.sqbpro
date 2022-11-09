@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/Nnenna/Desktop/database.sqlite" readonly="0" foreign_keys="0" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="0" synchronous="1"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="968"/><column_width id="4" width="0"/></tab_structure><tab_browse><current_table name="4,4:maintags"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1">SELECT *
+FROM torrents; --This query is used to populate data from database
+
+SELECT avg(totalSnatched) --This query is used to get the average of downloads from the torrents table.
+FROM torrents;
+
+
+SELECT ROUND(207.057792628006, 2) --This is used to round the result of average query to 2 decimal places
+
+</sql><sql name="SQL 3"></sql><current_tab id="0"/></tab_sql></sqlb_project>
