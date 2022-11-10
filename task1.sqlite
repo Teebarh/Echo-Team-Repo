@@ -1,0 +1,4 @@
+SELECT DISTINCT releasetype, COUNT(*)
+FROM torrents
+GROUP BY releasetype
+ORDER BY COUNT(*) DESC;
