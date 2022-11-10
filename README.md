@@ -29,5 +29,5 @@ The reports containing their findings can be found on our [Google drive folder](
 The following tools/softwares were used during the course of this project:
 - DB Browser for SQLite was used to access the database and write queries.
 - ClickUp (Click [here](https://app.clickup.com/42086706/v/s/66176341) to access our workspace) was used to assign tasks to members and monitor our workflow.
-- Google drive (Click [here](https://drive.google.com/drive/folders/10pIgD7O-57XKQo62WodGfWyu-YzqiR3k?usp=sharing) to access our drive folder
-- Github
+- Google drive (Click [here](https://drive.google.com/drive/folders/10pIgD7O-57XKQo62WodGfWyu-YzqiR3k?usp=sharing) to access our drive folder) was used to upload files related to the project.
+- Github was used to upload code files related to the project.
