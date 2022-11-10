@@ -1,4 +1,4 @@
-SELECT artists, COUNT(artist)
+SELECT artist, COUNT(artist)
 FROM torrents
 GROUP BY artist
 ORDER BY COUNT(artist) DESC
