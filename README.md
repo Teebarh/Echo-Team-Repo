@@ -23,6 +23,8 @@ The responsibilities of each team member, are as follows:
 - [Nnenna Edeh](https://github.com/Nnennaedeh54) -> Was assigned with writing a query that answers the fourth question (as task four), and a well-detailed report accompanying it.
 - [Toyibat Adele](https://github.com/Teebarh) -> as the team leader, her responsibilities included assigning tasks, helping team members where needed, and ensuring that the project was being carried out promptly and appropriately.
 
+The reports containing their findings can be found on our [Google drive folder](https://drive.google.com/drive/folders/10pIgD7O-57XKQo62WodGfWyu-YzqiR3k?usp=sharing).
+
 ## TOOLS USED TO CARRY OUT TASKS
 The following tools/softwares were used during the course of this project:
 - DB Browser for SQLite was used to access the database and write queries.
