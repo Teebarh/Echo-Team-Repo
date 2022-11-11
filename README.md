@@ -31,3 +31,4 @@ The following tools/softwares were used during the course of this project:
 - ClickUp (Click [here](https://app.clickup.com/42086706/v/s/66176341) to access our workspace) was used to assign tasks to members and monitor our workflow.
 - Google drive (Click [here](https://drive.google.com/drive/folders/10pIgD7O-57XKQo62WodGfWyu-YzqiR3k?usp=sharing) to access our drive folder) was used to upload files related to the project.
 - Github was used to upload code files related to the project.
+- Slack was used for easy communication among team members and facilitators.
